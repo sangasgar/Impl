@@ -6,7 +6,7 @@ public class MyArrayDataException  extends Exception {
     }
 
     public MyArrayDataException() {
-        System.out.println("Значение не может быть преобразовано в Int");
+        System.out.println("Данное значение не может быть преобразовано в Int");
     }
 }
 

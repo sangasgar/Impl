@@ -6,6 +6,6 @@ public class MyArraySizeException extends Exception {
     }
 
     public MyArraySizeException() {
-        System.out.println("Массив не 4 на 4");
+        System.out.println("Данный массив не 4 на 4");
     }
 }
